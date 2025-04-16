@@ -1,0 +1,24 @@
+# Development Requirements
+# Additional packages needed for development but not for using the library
+
+# Testing
+pytest>=6.2.0
+pytest-cov>=2.12.0
+
+# Linting and formatting
+black>=21.5b2
+flake8>=3.9.0
+flake8-docstrings>=1.6.0
+isort>=5.9.0
+mypy>=0.812
+
+# Documentation
+sphinx>=4.0.0
+sphinx-rtd-theme>=1.0.0
+
+# Pre-commit
+pre-commit>=2.13.0
+
+# Type checking
+types-PyYAML>=6.0.0
+types-requests>=2.25.0

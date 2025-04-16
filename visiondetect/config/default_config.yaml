@@ -1,0 +1,32 @@
+data:
+  train_config:
+    data_dir: "data"
+    img_size: [640, 640]
+    batch_size: 8
+    num_workers: 4
+    augment: true
+    download: false
+
+model:
+  model_type: "faster_rcnn"
+  backbone: "resnet50"
+  num_classes: 91
+  pretrained: true
+
+training:
+  epochs: 50
+  lr: 0.001
+  weight_decay: 0.0005
+  momentum: 0.9
+  checkpoint_dir: "checkpoints"
+  
+evaluation:
+  confidence_threshold: 0.5
+  output_dir: "evaluation"
+  visualize: true
+  max_visualizations: 10
+  
+inference:
+  confidence_threshold: 0.5
+  output_dir: "results"
+  show: false

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9c743c0e-f5d7-44dd-b178-0ebbfc4b0460" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/VisionDetect.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visiondetect/.github/workflows/ci.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visiondetect/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visiondetect/.pre-commit-config.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visiondetect/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visiondetect/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visiondetect/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visiondetect/config/default_config.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visiondetect/docs/code_style_guide.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visiondetect/docs/documentation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visiondetect/docs/getting_started.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visiondetect/evaluate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visiondetect/infer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visiondetect/notebooks/object_detection_tutorial.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visiondetect/pyproject.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visiondetect/requirements-dev.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visiondetect/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visiondetect/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visiondetect/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visiondetect/src/data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visiondetect/src/data/preprocessing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visiondetect/src/models/architecture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visiondetect/src/models/predictor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visiondetect/src/models/trainer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visiondetect/src/utils/logging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visiondetect/src/utils/metrics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visiondetect/src/utils/visualization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visiondetect/train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visiondetect/website/css/images.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visiondetect/website/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visiondetect/website/images/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visiondetect/website/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visiondetect/website/js/script.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2vnI66UlrdrjsM2DIjGnXmnZX6a" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/drake/DataspellProjects/VisionDetect",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\drake\DataspellProjects\VisionDetect" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-f2b3473ffc3f-fab4200a9dfa-com.jetbrains.pycharm.ds.sharedIndexes.bundled-DS-243.25659.44" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+</project>
